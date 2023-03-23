@@ -1,5 +1,5 @@
 
-print("A list is created in Python by placing items inside [], separated by commas . For example,")
+print("A list is created in Python by placing items inside [], separated by commas.")
 
 # A list with 3 integers
 numbers = [1, 2, 5]
@@ -9,7 +9,7 @@ print(numbers)
 # Output: [1, 2, 5]
 print("")
 
-print("In Python, each item in a list is associated with a number. The number is known as a list index.We can access elements of an array using the index number (0, 1, 2 …). For example,")
+print("In Python, each item in a list is associated with a number. The number is known as a list index.We can access elements of an array using the index number (0, 1, 2 …)")
 
 languages = ["Python", "Swift", "C++"]
 
